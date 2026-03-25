@@ -1,32 +1,31 @@
-# protein-sequence-analysis
-# Protein Sequence Length Analysis
+# Protein Sequence Analysis
 
-## Problem Statement
-The aim of this project is to analyze protein sequences and understand their basic properties such as sequence length, longest and shortest proteins, and amino acid composition.
+## Objective
+To analyze protein sequences and study their basic characteristics.
 
-## Dataset Source
-A small dataset of protein sequences was created for demonstration, inspired by protein data from UniProt.
+## Background
+Protein sequence analysis helps in understanding structure and identifying potential drug targets.
 
-## Python Code
-The analysis was performed using Python with pandas and matplotlib.
+## Dataset
+Protein sequences obtained from public databases such as UniProt.
 
-Steps performed:
-- Loaded protein sequence dataset
-- Calculated sequence length
-- Identified longest and shortest proteins
-- Visualized sequence length distribution
-- Analyzed amino acid frequency
+## Methodology
+- Sequence analysis using Python
+- Calculation of amino acid frequency
+- Visualization using matplotlib
 
 ## Results
-- Sequence lengths vary across proteins
-- Some proteins are longer while others are shorter
-- Amino acid frequencies show composition differences
+Different proteins show variation in sequence length and amino acid composition.
 
-## Biological Interpretation
-Protein length is an important property that can influence structure and function. Different amino acid compositions indicate variation in protein characteristics. This analysis provides a basic understanding of protein sequence properties.
+## Visualization
+A bar chart was created to show amino acid frequency distribution.
+
+## Key Insight
+Variations in amino acid composition can influence protein structure and function.
 
 ## Tools Used
-- Python
-- Pandas
-- Matplotlib
-- Google Colab
+Python, pandas, matplotlib
+
+## Future Scope
+Can be extended to structural prediction and advanced bioinformatics analysis.
+
